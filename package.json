@@ -1,0 +1,21 @@
+{
+  "name": "fyers",
+  "version": "1.0.0",
+  "description": "Fyers API demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fyers",
+    "api",
+    "Node JS",
+    "Javascript"
+  ],
+  "author": "Gajendra Jore",
+  "license": "ISC",
+  "dependencies": {
+    "fyers-api-v2": "^1.0.3",
+    "tulind": "^0.8.20"
+  }
+}
